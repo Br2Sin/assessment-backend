@@ -24,7 +24,7 @@ con.connect(function(err) {
 const dbConn = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
-  password : '',
+  password : 'Mufasa_5rzzjlzvf5',
   database : 'nft_books'
 });
 
